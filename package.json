@@ -1,0 +1,22 @@
+{
+  "name": "ahon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://penguiin@bitbucket.org/penguiin/ahon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/penguiin/ahon/issues"
+  },
+  "homepage": "https://bitbucket.org/penguiin/ahon#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
